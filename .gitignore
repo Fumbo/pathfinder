@@ -54,5 +54,6 @@ package-lock.json
 /conf/
 /node_modules/
 /public/js/vX.X.X/
+/public/logs/
 /vendor/
 /history/
